@@ -84,8 +84,7 @@ u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
 ```
 
 
-```
-flow
+```flow
 st=>start: 开始
 op=>operation: My Operation
 cond=>condition: Yes or No?
@@ -93,7 +92,6 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-&
 ```
 
 

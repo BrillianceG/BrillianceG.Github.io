@@ -4,8 +4,7 @@ title: "About"
 description: "你的博客描述 " 
 header-img: "img/green.jpg"
 ---
-
-这一页填写你的自我介绍。
+就读于南京大学VISG实验室，关注3D视觉、三维重建、SLAM、传感器融合、机器人等方向
 
 
 

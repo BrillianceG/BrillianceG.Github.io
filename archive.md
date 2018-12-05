@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "Blogs fly with time."
+description: "blogs fly with time"
 header-img: "img/orange.jpg"
 ---
 
